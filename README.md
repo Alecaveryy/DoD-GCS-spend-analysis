@@ -1,6 +1,4 @@
-### 2️⃣ `README.md` for **DoD Ground Combat Systems Spend Analysis**
-
-# Analysis of DoD Spend on Ground Combat Systems (GCS) 💼💰
+# Analysis of DoD Spend on Ground Combat Systems (GCS)
 
 > **Portfolio demo – notebook + written report included**
 
